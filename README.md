@@ -16,6 +16,6 @@ h) npm install react-native-safe-area-context @react-native-community/masked-vie
 
 2) Do npm start to run the metro server
 
-3)Use the metro server to run on android or web.
+3) Use the metro server to run on android or web.
 
 Note: If running on android please have the emulator up and running before you select run on android on the metro server.
