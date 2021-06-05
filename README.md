@@ -6,8 +6,8 @@ An app created to allow users to view different types of jokes.
 
 **Steps to run the app**
 
-Clone this repo locally
-git clone https://github.com/theEloise888/React-Native-Joke-App.git.
+Clone this repo locally:
+* git clone https://github.com/theEloise888/React-Native-Joke-App.git.
 
 **Install the following components**
 
